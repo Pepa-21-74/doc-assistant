@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "doc-assistant",
+			"path": "."
+		},
+		{
+			"name": "LoRA",
+			"path": "../Users/Костик/Downloads/izmenennye-fajly(1)/src/LoRA"
+		}
+	],
+	"settings": {}
+}
